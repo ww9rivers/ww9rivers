@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🤿 The [SnmpMibs](/ww9rivers/SnmpMibs) repository is a collection of SNMP MIBs that I have maintained from a fork.
+- 🎮 I taught a class of young kids [JavaScript programming by building games](https://ww9rivers.github.io/).
+
 <!--
 **ww9rivers/ww9rivers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
