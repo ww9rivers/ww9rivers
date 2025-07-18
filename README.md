@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🤿 The [SnmpMibs](SnmpMibs) repository is a collection of SNMP MIBs that I have maintained from a fork.
+- 🤿 The [SnmpMibs](https://github.com/ww9rivers/SnmpMibs) repository is a collection of SNMP MIBs that I have maintained from a fork.
 - 🎮 I taught a class of young kids [JavaScript programming by building games](https://ww9rivers.github.io/).
 
 <!--
